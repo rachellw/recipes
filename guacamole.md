@@ -4,4 +4,5 @@
 * lime (0.64)
 * salt (2)
 # Guacamole
+ put one avocado into a bowl.
 
