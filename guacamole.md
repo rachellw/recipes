@@ -4,4 +4,6 @@
 * lime (0.64)
 * salt (2)
 # Guacamole
+## Instructions
+* peel the avocados
 
